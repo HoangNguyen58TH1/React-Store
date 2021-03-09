@@ -5,7 +5,7 @@ import {
   NavbarToggler,
   Nav,
   NavItem,
-  NavLink,
+  NavLink
 } from 'reactstrap';
 
 export default function Header() {
